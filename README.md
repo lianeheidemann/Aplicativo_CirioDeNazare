@@ -45,8 +45,13 @@ O projeto apresenta:
 # Estrutura do Projeto
 
 ```text
+android/
+└── app/
+    └── src/
+        └── main/
+            └── AndroidManifest.xml
+
 lib/
-│
 ├── core/
 │   └── constants/
 │       └── map_constants.dart
@@ -68,6 +73,8 @@ lib/
 │           └── location_service.dart
 │
 └── main.dart
+
+pubspec.yaml
 ```
 
 ---
@@ -86,6 +93,3 @@ flutter run
 Liane Heidemann
 
 Projeto acadêmico desenvolvido para a disciplina de Desenvolvimento Mobile com Flutter.
-
-```text
-
