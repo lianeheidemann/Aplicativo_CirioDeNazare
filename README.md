@@ -13,9 +13,7 @@ O projeto apresenta:
 
 # Demonstração
 
-<img width="540" height="1110" alt="cirioApp_50porcento_GIF" src="https://github.com/user-attachments/assets/36c3b695-74cb-4d5d-a7d8-9e9486aa2a1b" />
-
-
+<img width="400" height="822" alt="ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/f301c447-8c5e-4f63-9ba6-17d50719a5f9" />
 
 ---
 
