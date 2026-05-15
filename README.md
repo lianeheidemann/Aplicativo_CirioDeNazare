@@ -13,11 +13,11 @@ O projeto apresenta:
 
 # Demonstração
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4f567b2f-74dc-48b8-a548-dc188ac9dac1" width="250"/>
 
-  <img src="https://github.com/user-attachments/assets/132b1e6f-7b2f-4337-9b2d-004b5b75a997" width="250"/>
-</p>
+
+
+
+
 
 ---
 
