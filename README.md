@@ -88,4 +88,4 @@ flutter run
 
 Liane Heidemann
 
-Projeto acadêmico desenvolvido para a disciplina de Desenvolvimento Mobile com Flutter.
+Projeto acadêmico desenvolvido para a disciplina de Desenvolvimento Mobile
