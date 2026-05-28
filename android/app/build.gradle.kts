@@ -21,7 +21,6 @@ android {
     defaultConfig {
         applicationId = "com.example.cirio_app2"
 
-        // 🔥 CORREÇÃO CRÍTICA PARA GOOGLE MAPS
         minSdk = flutter.minSdkVersion
 
         targetSdk = flutter.targetSdkVersion
