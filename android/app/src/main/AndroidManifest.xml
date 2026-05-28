@@ -9,8 +9,7 @@
         android:label="cirio_app2"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
-
-        <!-- 🔥 Google Maps API KEY (correto) -->
+
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyDUyPptmwh7XIH8T3HdrotOczE0xIPsoQU"/>
