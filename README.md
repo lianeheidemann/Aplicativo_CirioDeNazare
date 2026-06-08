@@ -1,10 +1,10 @@
-# 🕯️ CírioApp
+# CírioApp
 
 > Aplicativo mobile desenvolvido em **Flutter** para exibir informações geoespaciais do **Círio de Nazaré** — a maior procissão católica do mundo, realizada em Belém do Pará, Brasil.
 
 ---
 
-## 📱 Demonstração
+## Demonstração
 
 <p align="center">
   <img width="300" alt="CírioApp Demo" src="https://github.com/user-attachments/assets/f301c447-8c5e-4f63-9ba6-17d50719a5f9" />
@@ -12,7 +12,7 @@
 
 ---
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
 O **CírioApp** é um aplicativo de mapa interativo que permite aos fiéis e participantes acompanhar as rotas oficiais do Círio de Nazaré em tempo real. Com geolocalização integrada e visualização via Google Maps, o app orienta o usuário desde a sua posição atual até os pontos centrais do evento.
 
@@ -20,7 +20,7 @@ Este projeto foi desenvolvido como trabalho acadêmico para a disciplina de **De
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 | Funcionalidade | Descrição |
 |---|---|
@@ -34,7 +34,7 @@ Este projeto foi desenvolvido como trabalho acadêmico para a disciplina de **De
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **[Flutter](https://flutter.dev/)** — SDK de desenvolvimento mobile multiplataforma
 - **[Dart](https://dart.dev/)** — Linguagem de programação
@@ -43,7 +43,7 @@ Este projeto foi desenvolvido como trabalho acadêmico para a disciplina de **De
 
 ---
 
-## 🗂️ Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 lib/
@@ -78,7 +78,7 @@ android/
 
 ---
 
-## 🗺️ Pontos de Referência
+## Pontos de Referência
 
 | Local | Latitude | Longitude |
 |---|---|---|
@@ -90,7 +90,7 @@ android/
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Pré-requisitos
 
@@ -113,11 +113,11 @@ flutter pub get
 flutter run
 ```
 
-> ⚠️ **Atenção:** É necessário adicionar sua chave da Google Maps API no arquivo `android/app/src/main/AndroidManifest.xml` para que o mapa seja exibido corretamente.
+> **Atenção:** É necessário adicionar sua chave da Google Maps API no arquivo `android/app/src/main/AndroidManifest.xml` para que o mapa seja exibido corretamente.
 
 ---
 
-## 🔐 Permissões Necessárias
+## Permissões Necessárias
 
 O aplicativo solicita as seguintes permissões ao usuário:
 
@@ -126,7 +126,7 @@ O aplicativo solicita as seguintes permissões ao usuário:
 
 ---
 
-## 📦 Dependências (`pubspec.yaml`)
+## Dependências (`pubspec.yaml`)
 
 ```yaml
 dependencies:
