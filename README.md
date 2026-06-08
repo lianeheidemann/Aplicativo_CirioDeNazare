@@ -157,13 +157,3 @@ O **Círio de Nazaré** é a maior procissão religiosa do mundo, realizada anua
 Projeto acadêmico desenvolvido para a disciplina de **Desenvolvimento Mobile**.
 
 ---
-
-## 📄 Licença
-
-Este projeto é de uso acadêmico. Para mais informações, entre em contato com a autora.
-
----
-
-<p align="center">
-  Feito com ❤️ e devoção para o Círio de Nazaré 🕯️
-</p>
